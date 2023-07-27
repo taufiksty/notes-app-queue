@@ -1,0 +1,4 @@
+/node_modules
+/test-rabbitmq
+package-lock.json
+.env
